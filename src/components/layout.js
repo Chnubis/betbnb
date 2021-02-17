@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
         }}>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.betbnb24.com">Betbnb24</a>
+          <a href="https://www.betbnb.com">Betbnb</a>
         </footer>
       </div>
     </>
