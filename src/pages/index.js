@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Betbnb24" />
+    <SEO title="Betbnb" />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
               <Image />
             </div>
