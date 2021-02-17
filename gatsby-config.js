@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Betbnb24`,
+    title: `Betbnb`,
     description: `The new way of travelling. With our new bidding feature you set the price.`,
-    author: `@betbnb24`,
+    author: `@betbnb`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
